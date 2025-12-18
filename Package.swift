@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "smith-foundation",
     platforms: [
-        .macOS(.v12),
+        .macOS(.v15),
         .iOS(.v15),
         .tvOS(.v15),
         .watchOS(.v8)
